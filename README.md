@@ -1,25 +1,21 @@
-# PROJECTNAME
+# SECURITY AUDIT LAB
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Security Audit Lab project aimed to mimic the conditions for a real-world security audit. The primary objective was to complete a internal security audit for a fictional company. The goal of the audit was to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture. The tasks involved revieiewing the scope, goals, and risk assessment report. Then, to perform an internal audit by completing a controls and compliance checklist. 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
+- Advanced understanding of compliance evaluation (HDPR, HIPAA, ISO) and practical application.
+- Proficiency in audit planning and execution.
+- Ability to communicate audit findings effectively through comprehensive documentation.
+- Enhanced knowledge of risk identification and assesment.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- TBD
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
