@@ -13,9 +13,8 @@ The Security Audit Lab project aimed to mimic the conditions for a real-world se
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- TBD
+- Information provided in the Botium Toys scope, goals, and risk assessment report: [Botium Toys Scope.docx](https://github.com/user-attachments/files/15828598/Botium.Toys.Scope.docx)
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
