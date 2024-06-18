@@ -14,7 +14,7 @@ The Security Audit Lab project aimed to mimic the conditions for a real-world se
 
 ### Tools Used
 
-- Information provided in the Botium Toys scope, goals, and risk assessment report provides context for the assessment: 
+- Information provided in the Botium Toys scope, goals, and risk assessment report provides context for the assessment.
 
 ## Steps
 
