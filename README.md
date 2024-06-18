@@ -9,7 +9,7 @@ The Security Audit Lab project aimed to mimic the conditions for a real-world se
 - Advanced understanding of compliance evaluation (GDPR, NIST, PCI DSS, ISO) and practical application.
 - Proficiency in audit planning and execution.
 - Ability to communicate audit findings effectively through comprehensive documentation.
-- Enhanced knowledge of risk identification and assesment.
+- Enhanced knowledge of risk identification and assessment.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
