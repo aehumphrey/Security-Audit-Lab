@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Security Audit Lab project aimed to mimic the conditions for a real-world security audit. The primary objective was to complete a internal security audit for a fictional company. The goal of the audit was to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture. The tasks involved revieiewing the scope, goals, and risk assessment report. Then, to perform an internal audit by completing a controls and compliance checklist. 
+The Security Audit Lab project aimed to mimic the conditions for a real-world security audit. The primary objective was to complete an internal security audit for a fictional company. The goal of the audit was to provide an overview of the risks and/or fines that the company might experience due to the current state of their security posture. The tasks involved reviewing the scope, goals, and risk assessment report. Then, to perform an internal audit by completing a controls and compliance checklist.
 
 ### Skills Learned
 
