@@ -1,4 +1,4 @@
-# SECURITY AUDIT LAB
+# Security Audit Lab
 
 ## Objective
 
